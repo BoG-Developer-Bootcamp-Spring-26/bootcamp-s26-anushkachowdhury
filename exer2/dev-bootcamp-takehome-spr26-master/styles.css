@@ -1,0 +1,13 @@
+
+body{
+    background-color: #26212c;
+    font: Georgia, serif;
+    color: rgb(245, 207, 207);
+
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+}
